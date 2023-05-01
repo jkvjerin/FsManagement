@@ -4,11 +4,20 @@
   "description": "webpack.config.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkvjerin/FsManagement.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkvjerin/FsManagement/issues"
+  },
+  "homepage": "https://github.com/jkvjerin/FsManagement#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
